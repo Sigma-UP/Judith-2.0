@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Judith_2._0
+namespace Core
 {
     /// <summary>
     /// Interaction logic for App.xaml

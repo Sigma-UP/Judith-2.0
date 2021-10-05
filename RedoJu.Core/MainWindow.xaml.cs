@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Judith_2._0
+namespace Core
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

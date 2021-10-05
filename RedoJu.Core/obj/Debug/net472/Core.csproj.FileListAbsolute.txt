@@ -1,0 +1,15 @@
+D:\1. WORK\Projects\RedoJu\Core\bin\Debug\net472\Core.exe.config
+D:\1. WORK\Projects\RedoJu\Core\bin\Debug\net472\Core.exe
+D:\1. WORK\Projects\RedoJu\Core\bin\Debug\net472\Core.pdb
+D:\1. WORK\Projects\RedoJu\Core\obj\Debug\net472\Core.csproj.AssemblyReference.cache
+D:\1. WORK\Projects\RedoJu\Core\obj\Debug\net472\MainWindow.g.cs
+D:\1. WORK\Projects\RedoJu\Core\obj\Debug\net472\App.g.cs
+D:\1. WORK\Projects\RedoJu\Core\obj\Debug\net472\Core_MarkupCompile.cache
+D:\1. WORK\Projects\RedoJu\Core\obj\Debug\net472\Core_MarkupCompile.lref
+D:\1. WORK\Projects\RedoJu\Core\obj\Debug\net472\MainWindow.baml
+D:\1. WORK\Projects\RedoJu\Core\obj\Debug\net472\Core.g.resources
+D:\1. WORK\Projects\RedoJu\Core\obj\Debug\net472\Core.AssemblyInfoInputs.cache
+D:\1. WORK\Projects\RedoJu\Core\obj\Debug\net472\Core.AssemblyInfo.cs
+D:\1. WORK\Projects\RedoJu\Core\obj\Debug\net472\Core.csproj.CoreCompileInputs.cache
+D:\1. WORK\Projects\RedoJu\Core\obj\Debug\net472\Core.exe
+D:\1. WORK\Projects\RedoJu\Core\obj\Debug\net472\Core.pdb
